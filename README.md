@@ -32,7 +32,7 @@ Then continue with the Docker installation as described above
 
 ## Deploying
 
-After successfully setting up your project, you can either [run locally](https://cloud.google.com/appengine/docs/python/managed-vms/sdk#run-local), or [deploy to production](https://cloud.google.com/appengine/docs/python/managed-vms/sdk#deploy)
+After successfully setting up your project, you can either [run locally](https://cloud.google.com/appengine/docs/managed-vms/sdk#run-local), or [deploy to production](https://cloud.google.com/appengine/docs/managed-vms/sdk#deploy)
 
 ## Licensing
 
